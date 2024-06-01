@@ -1,0 +1,10 @@
+.main-container{
+    display: flex;
+   
+   
+}
+.inner{
+    width:"100%";
+ box-sizing: initial;
+ 
+}
