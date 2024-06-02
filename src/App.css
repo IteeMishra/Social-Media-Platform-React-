@@ -8,3 +8,23 @@
  box-sizing: initial;
  
 }
+
+.post-card{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+.marginInTags{
+    margin:10px;
+}
+.button-reaction{
+    margin-top: 10px;
+}
+.create-post{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 60px;
+}
